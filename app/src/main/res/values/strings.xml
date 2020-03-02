@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Recipeapp</string>
+    <string name="password">Password...</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="click_here_to_continue">Click Here To Continue</string>
+    <string name="home_of_recipe">Welcome To Recipe</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="category_calories">Calories</string>
+    <string name="carbos">carbos</string>
+    <string name="country">country</string>
+    <string name="ingredients">ingredients</string>
+    <string name="description">description</string>
+    <string name="difficulty">difficulty</string>
+    <string name="fats">fats</string>
+    <string name="headline">headline</string>
+    <string name="id">id</string>
+    <string name="products">products</string>
+    <string name="proteins">proteins</string>
+    <string name="time">time</string>
+    <string name="email_text_view">email</string>
+    <string name="textview">TextView</string>
+    <string name="weeks">weeks</string>
+    <string name="cards">cards</string>
+
+</resources>
